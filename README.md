@@ -1,4 +1,4 @@
-This project is about blood donation. Blood Aid, the created web appliation, allows donors to register and view available blood drives and receive alerts about the same. Hospitals can in turn register to schedule the blood drives. Alerts in this appliation are sent through email. For testing, you may register a new donor using your personal email address.
+This project is about blood donation. Blood Aid, the created web appliation, allows donors to register and view available blood drives and receive alerts about the same. Hospitals can in turn register to schedule the blood drives. Alerts in this application are sent through email. For testing, you may register a new donor using your personal email address.
 
 This was our Informatics Project I, to help address the issue of blood shortage. It was done in pairs. 
 
