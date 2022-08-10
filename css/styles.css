@@ -1,0 +1,260 @@
+.box-shadow {
+	-webkit-box-shadow: 0px 10px 20px 0px rgba(50, 50, 50, 0.52);
+	-moz-box-shadow:    0px 10px 20px 0px hsla(0, 0%, 20%, 0.52);
+	box-shadow:         0px 10px 20px 0px rgba(50, 50, 50, 0.52)
+}
+form{
+    padding:20px 50px;
+    font-weight: 500;
+}
+#hospital_reg_form{
+    margin-top:45px;
+    margin-bottom: 78px;
+}
+#login_form{
+    margin-top:40px;
+    margin-bottom: 68px;
+}
+#registration_form{
+    margin-bottom: 20px;
+}
+#drive_scheduling_form{
+    margin-top:37px;
+    margin-bottom: 55px;
+}
+#alert_form{
+    margin-top:50px;
+    margin-bottom:120px;
+}
+#drivehospitalview{
+    margin-top:20px;
+    margin-bottom:275px;
+    padding:10px;
+    padding-right:40px;
+}
+#driveview{
+    padding: 20px;
+    margin-bottom:112px;
+}
+#driveview:hover{
+    border:solid;
+}
+#donor_reg_heading,#hospital_reg_heading, #login_heading,#drive_scheduling_heading,#hospital_edit_appointment_heading{
+    padding-bottom: 20px;
+}
+#edit_appointment_form, #book_appointment_form{
+    margin-top:87px;
+    margin-bottom: 52px;
+}
+.hospital_profile{
+    margin-bottom:57px;
+    padding: 20px;
+    margin-top: 60px;
+}
+#confirmedAppointments{
+    margin-top:70px;
+    margin-bottom: 245px;
+}
+#pendingAppointments{
+    margin-top:70px;
+    margin-bottom: 245px;
+}
+table{
+    width:100%;
+}
+tbody tr:hover{
+    background-color: lightgrey;
+}
+table a{
+    color:black;
+}
+table a:hover{
+    color:#b22222;
+}
+table, th, td{
+    text-align:center;
+    height: 70px;
+}
+th,td{
+    padding-left:10px;
+    padding-right:10px;
+}
+thead{
+    height:60px;
+}
+.container_drive_view{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.booked_drives{
+    display: grid;
+}
+#submit,#login{
+    margin-left:35%;
+    color:white;
+    background-color: black;
+    width:auto;
+}
+#login{
+    width:40%;
+    margin-left:30%;
+}
+.error{
+    color:red;
+    display: inline-flex;
+}
+label{
+    display:inline-flex;
+    width:150px;
+}
+input, #gender{
+    width:200px;
+    box-shadow: 5px 0px 10px #888888;
+}
+form#driveview{
+    width:10px;
+}
+@media screen and (max-width: 800px) {
+
+    input,#gender {
+      width:100%;
+    }
+    label{
+        width:50px;
+    }
+    #submit, #login{
+        vertical-align: middle;
+        margin-left: auto;
+        width:auto;
+    }
+}
+
+#new_user{
+    padding-left: 80px;
+}
+form a{
+    text-decoration: none;
+    color:black;
+    
+}
+form a:hover{
+    color:#b22222;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+}
+nav a:hover{
+    color:black;
+}
+nav{
+    top:0;
+    width:100%;
+    border-bottom: solid whitesmoke 5px;
+    color:white;
+    background-color: #b22222;
+
+}
+footer{
+    color:white;
+    background-color: #b22222;
+    height:50px;
+    padding-left:20px;
+    padding-top:10px;
+}
+
+#forgot_password{
+    padding-left: 110px;
+}
+#submit:hover, #login:hover{
+    background-color: transparent;
+    color:#b22222;
+}
+
+#logo{
+    padding: 0;
+}
+.sidenav {
+    overflow-y: scroll;
+    top: 0;
+    bottom: 0;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    background-color: #fff;
+    overflow-x: auto;
+    margin-top:85px;
+}
+.main {
+    margin-left: 250px;
+}
+  
+.sidenav a {
+    padding: 12px 8px 10px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000;
+    display: block;
+    border-bottom: 0.001px grey solid;
+}
+  
+.sidenav a:hover {
+    background-color: grey;
+}
+.sidenav_footer{
+    padding-left: 300px;
+}
+.cards-data{
+    display: flex;
+}
+.donor_land{
+    display:flex;
+}
+.btn-toggle {
+    padding: .25rem .5rem;
+    font-weight: 600;
+    color: rgba(0, 0, 0, .65);
+    background-color: transparent;
+  }
+  .btn-toggle:hover,
+  .btn-toggle:focus {
+    color: rgba(0, 0, 0, .85);
+    background-color: #adb5bd;
+  }
+  
+  .btn-toggle::before {
+    width: 1.25em;
+    line-height: 0;
+    content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='rgba%280,0,0,.5%29' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M5 14l6-6-6-6'/%3e%3c/svg%3e");
+    transition: transform .35s ease;
+    transform-origin: .5em 50%;
+  }
+  
+  .btn-toggle[aria-expanded="true"] {
+    color: rgba(0, 0, 0, .85);
+  }
+  .btn-toggle[aria-expanded="true"]::before {
+    transform: rotate(90deg);
+  }
+  
+  .btn-toggle-nav a {
+    padding: .1875rem .5rem;
+    margin-top: .125rem;
+    margin-left: 1.25rem;
+  }
+  .btn-toggle-nav a:hover,
+  .btn-toggle-nav a:focus {
+    background-color:#adb5bd;
+    color:white;
+  }
+  #dash{
+    border-right:solid whitesmoke;
+  }
+  .contact_form{
+    border:solid;
+    margin-left:50px;
+    margin-top:50px;
+  }
