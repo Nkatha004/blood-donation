@@ -28,8 +28,7 @@ Homepage screenshots:
 
 Hospital Registration:
 
-<img width="945" alt="hospitalReg1" src="https://user-images.githubusercontent.com/69391540/184066508-23a65d24-24e0-421b-9095-e976c9c8a399.png">
-<img width="946" alt="hospitalReg2" src="https://user-images.githubusercontent.com/69391540/184066510-584cf55d-6915-4cb2-8dda-51a75b705405.png">
+<img width="945" alt="hospitalReg1" src="https://user-images.githubusercontent.com/69391540/184066508-23a65d24-24e0-421b-9095-e976c9c8a399.png"><img width="946" alt="hospitalReg2" src="https://user-images.githubusercontent.com/69391540/184066510-584cf55d-6915-4cb2-8dda-51a75b705405.png">
 
 Blood Drive View:
 <img width="946" alt="2022-07-17 (2)" src="https://user-images.githubusercontent.com/69391540/184066597-df020902-2630-49a9-acc9-2323d4a689bb.png">
