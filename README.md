@@ -24,3 +24,35 @@ Homepage screenshots:
 <img width="946" alt="homepage3" src="https://user-images.githubusercontent.com/69391540/184024729-bc2344ee-b497-424d-96d9-6093e614583d.png">
 <img width="949" alt="homepage4" src="https://user-images.githubusercontent.com/69391540/184024737-bf6cdd16-aea5-48ad-a3af-3a91b4c2d0a4.png">
 <img width="946" alt="homepage5" src="https://user-images.githubusercontent.com/69391540/184024753-8ba4e3e7-65f8-4ffa-b37a-8c8da91f4cde.png">
+<img width="947" alt="homepagefooter" src="https://user-images.githubusercontent.com/69391540/184066266-d6e5e45f-a1d7-4cad-85b7-991cb1080209.png">
+
+Hospital Registration:
+
+<img width="945" alt="hospitalReg1" src="https://user-images.githubusercontent.com/69391540/184066508-23a65d24-24e0-421b-9095-e976c9c8a399.png">
+<img width="946" alt="hospitalReg2" src="https://user-images.githubusercontent.com/69391540/184066510-584cf55d-6915-4cb2-8dda-51a75b705405.png">
+
+Blood Drive View:
+<img width="946" alt="2022-07-17 (2)" src="https://user-images.githubusercontent.com/69391540/184066597-df020902-2630-49a9-acc9-2323d4a689bb.png">
+
+Booking hospital appointment:
+<img width="944" alt="2022-07-17 (3)" src="https://user-images.githubusercontent.com/69391540/184066665-bee77b84-faf1-423f-9001-2577fdfaf651.png">
+
+Viewing upcoming hospital appointments:
+
+<img width="941" alt="2022-07-17 (4)" src="https://user-images.githubusercontent.com/69391540/184066715-2e5f4aba-91ac-49d8-af65-91e3fcd0268d.png">
+
+Viewing eligibility requirements:
+<img width="950" alt="2022-07-18 (17)" src="https://user-images.githubusercontent.com/69391540/184066829-2929fcb8-c8b9-420b-bdc7-fdbb2835b314.png"><img width="948" alt="2022-07-18 (18)" src="https://user-images.githubusercontent.com/69391540/184066831-a01e2e72-5393-4a62-aae1-69f2aa4f6c0d.png">
+
+Blood Drive Scheduling:
+
+<img width="949" alt="driveScheduling" src="https://user-images.githubusercontent.com/69391540/184067055-d61ee43f-4df2-4a00-ada9-5de4bf2e0610.png">
+
+Hospital view of blood donation bookings and all donations made
+
+<img width="948" alt="viewing bookings and donations" src="https://user-images.githubusercontent.com/69391540/184067252-5dbc82d3-c62f-4a9a-a56e-f625af4d9647.png">
+
+Blood appeal alert:
+![Uploading blood appeal alert.png…]()
+
+And so much more😃!
