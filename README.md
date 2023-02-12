@@ -1,6 +1,3 @@
-This project can been found at 143.198.115.132/blood-donation/homepage.php
-
-
 This project is about blood donation. Blood Aid, the created web appliation, allows donors to register and view available blood drives. Hospitals can in turn register to schedule the blood drives. In the case of blood shortage the hospital can send out an appeal alert to registered donors. Alerts in this application are sent through email. For testing, you may register a new donor using your personal email address.
 
 This was our Informatics Project I, to help address the issue of blood shortage. It was done in pairs. 
