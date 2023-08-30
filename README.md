@@ -27,7 +27,7 @@ Blood Drives View:
 <img width="946" alt="184066597-df020902-2630-49a9-acc9-2323d4a689bb" src="https://github.com/Nkatha004/blood-donation/assets/69391540/adfddecc-59db-43f1-83a5-5bd9791e5727">
 
 Booking hospital appointment:
-<img width="944" alt="2022-07-17 (3)" src="https://user-images.githubusercontent.com/69391540/184066665-bee77b84-faf1-423f-9001-2577fdfaf651.png">
+<img width="944" alt="184066665-bee77b84-faf1-423f-9001-2577fdfaf651" src="https://github.com/Nkatha004/blood-donation/assets/69391540/f73edae2-40fc-4d18-a78e-90455313d3f5">
 
 Viewing upcoming hospital appointments:
 
