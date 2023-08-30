@@ -4,14 +4,7 @@ This was our Informatics Project I, to help address the issue of blood shortage.
 
 Login Credentials:
 
-Hospital:
-email address: nairobiwest@hospital.com
-password: nairobiWest
-
-email address: meridian@hospital.com
-password: meridian
-
-For donor login, we advise you register a new user and login using the new credentials. You can choose to do the same for the hospital as well.
+For login, we advise you register a new user, either as a hospital or donor and login using the new credentials.
 
 Email Set-up localhost
 https://github.com/ravisingh2811/Send-Mail-From-Localhost-setup/blob/main/mail%20setup.txt
