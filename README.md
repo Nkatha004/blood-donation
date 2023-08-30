@@ -31,7 +31,7 @@ Booking hospital appointment:
 
 Viewing upcoming hospital appointments:
 
-<img width="941" alt="2022-07-17 (4)" src="https://user-images.githubusercontent.com/69391540/184066715-2e5f4aba-91ac-49d8-af65-91e3fcd0268d.png">
+<img width="941" alt="184066715-2e5f4aba-91ac-49d8-af65-91e3fcd0268d" src="https://github.com/Nkatha004/blood-donation/assets/69391540/a30608e9-8541-4417-be20-baf5c9d8a8ac">
 
 Viewing eligibility requirements:
 <img width="950" alt="2022-07-18 (17)" src="https://user-images.githubusercontent.com/69391540/184066829-2929fcb8-c8b9-420b-bdc7-fdbb2835b314.png"><img width="948" alt="2022-07-18 (18)" src="https://user-images.githubusercontent.com/69391540/184066831-a01e2e72-5393-4a62-aae1-69f2aa4f6c0d.png">
