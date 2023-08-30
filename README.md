@@ -23,8 +23,8 @@ Hospital Registration:
 
 <img width="945" alt="hospitalReg1" src="https://user-images.githubusercontent.com/69391540/184066508-23a65d24-24e0-421b-9095-e976c9c8a399.png"><img width="946" alt="hospitalReg2" src="https://user-images.githubusercontent.com/69391540/184066510-584cf55d-6915-4cb2-8dda-51a75b705405.png">
 
-Blood Drive View:
-<img width="946" alt="2022-07-17 (2)" src="https://user-images.githubusercontent.com/69391540/184066597-df020902-2630-49a9-acc9-2323d4a689bb.png">
+Blood Drives View:
+<img width="946" alt="184066597-df020902-2630-49a9-acc9-2323d4a689bb" src="https://github.com/Nkatha004/blood-donation/assets/69391540/adfddecc-59db-43f1-83a5-5bd9791e5727">
 
 Booking hospital appointment:
 <img width="944" alt="2022-07-17 (3)" src="https://user-images.githubusercontent.com/69391540/184066665-bee77b84-faf1-423f-9001-2577fdfaf651.png">
